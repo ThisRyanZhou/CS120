@@ -1,0 +1,4 @@
+Enter the number of floating point numbers and then enter each floating point number.
+Minimum: -207.399994
+Maximum: 150.000000
+Average: 15.960001
