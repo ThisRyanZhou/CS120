@@ -6,7 +6,7 @@ void mt(int x, int y){
             printf("%d", i * j);
             printf(" ");
         }
-        print("/n");
+        printf("\n");
     }
 }
 
