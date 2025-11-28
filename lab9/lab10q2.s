@@ -1,3 +1,4 @@
+#Qianjun Ryan Zhou
     .data
 arr: .byte 'E', 'L', 'V', 'I', 'S'
 arrayLength: .word 5
@@ -7,7 +8,6 @@ newline: .byte '\n'
 main:
     la $t0, arr
     li $t1, 0
-
 loop:
     li $t2, 5
     bge $t1, $t2, done
